@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Corrie Dev Blog
-  avatar: leonids-logo.png
+  avatar: logo.PNG
   job: "Bonus Slogan"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
@@ -58,7 +58,7 @@ owner:
   lastfm: #username
   tumblr: #username
   pinterest: #username
-  foursquare: #username
+  foursquare: #username4
   steam: #username
   dribbble: #username
   youtube: #username
