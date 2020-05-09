@@ -1,6 +1,71 @@
-title: Dev Blog
-logo: /assets/img/logo.png
-description: Corrie is writing about code and stocks.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Corrie Dev
+email:
+description: Here is a description to use corrie
+url: # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/London
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Corrie Dev Blog
+  avatar: leonids-logo.png
+  job: "Bonus Slogan"
+  bio: "A simple and awesome blog theme powered by jekyll."
+  email:
+  disqus-shortname:
+  twitter: corriedotdev
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: corriedotdev
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
