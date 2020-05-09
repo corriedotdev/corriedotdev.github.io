@@ -18,7 +18,15 @@ layout: default
         {% endunless %}
       {% endfor %}
       {% endif %}
+      <span class="post-meta">
+        <span class="post-date">
+          {{ page.date | date: "%-d %b %Y" | upcase }}
+        </span>
+        •
+        {% include read_time.html %}
+      </span>
     </p>
+
     <h4>
       <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title | escape }}">{{ post.title }}</a>
       {% if post.link %}

@@ -1,3 +1,4 @@
+
 /* LAYOUT CSS */
 .cover {
   background-color: $background-color;
@@ -31,7 +32,7 @@
   }
   .author_name {
     display: block;
-    color: #F36170;
+    color: $pink;
     font-size: 1.75em;
     text-transform: lowercase;
   }
