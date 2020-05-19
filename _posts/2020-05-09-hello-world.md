@@ -1,13 +1,15 @@
 ---
 layout: post
-title: A Blog hosted with no database
+title: Hosting a Jekyll blog with no database
 excerpt: "This website is hosted without a back end. Imagine developing numerous static HTML pages such as header, content and footer elements and then stitching them together to get the page you see now. A static site generator builds a website once, then delivers the pages as static pages with no server side processing. From a high level, its doing a find and replace on key values.."
 categories: [code]
-tags: ["blog"]
+tags: [blog,tutorial]
 comments: true
 ---
 
 # How this site was created
+
+<a href="#" id="emailclick" onclick="replace_email()">My Email</a>
 
 I love the simplicity of this site. Writing a post in a code editor and compiling it like a project is more familiar than using a commercial solution. I also feel less restricted with what I can develop on the site without jumping through hurdles. 
 
@@ -28,6 +30,11 @@ These are the key things that can get you set up pretty quickly.
 **Watch out!** 
 Need version < 2.7 of Ruby for a lot of themes due to dependency on nokogiri
 {: .notice}
+
+### Redirecting to your domain
+Github may change their DNS entries but im sure we will be informed or they will auto redirect. Add the following to your A entry for your domain you have purchased. Then head on over to your repo settings and enter your domain under the github pages section.
+
+![DNS Values]({{ site.url }}/img/github-dns.PNG)
 
 ### Commands used
 
@@ -55,3 +62,30 @@ $ bundle exec jekyll serve
 Check out the following links for inspiration and further reading about this topic
 * [A low level breakdown of jekyll](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 * [List of supported Ruby Rogue languages for code snippet highlights](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
+
+
+<!-- SCRIPTS HERE -->
+<script>
+var email;
+
+function add_mailto() {
+  const elem = document.getElementById("emailclick");
+  elem.href = `mailto:${email}`;
+}
+
+function replace_email() {
+  // spam prevention
+  const domain = "cjgstudio.com";
+  const name = [16, 28, 1, 1, 26, 22];
+  const xor_with = 115;
+  let constructed = "";
+  name.forEach(function(i) {
+    constructed += String.fromCharCode(i ^ xor_with);
+  })
+  email = `${constructed}@${domain}`;
+  const elem = document.getElementById("emailclick");
+  elem.text = email;
+
+  window.setTimeout(add_mailto, 100);
+}
+</script>
