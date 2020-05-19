@@ -6,8 +6,8 @@
 title: Corrie Dev
 email:
 description: Here is a description to use corrie
-url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+url: corrie.dev # the base hostname & protocol for your site
+keywords: ["code", "corrie", "developer", "unity", "c#", "tutorials"]
 
 #
 ###################################
@@ -35,8 +35,8 @@ kramdown:
 owner:
   name: Corrie Dev Blog
   avatar: logo.PNG
-  job: "Bonus Slogan"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Leaving some space in my head."
+  bio: "Everyone should have a page on the internet. This is mine."
   email:
   disqus-shortname:
   twitter: corriedotdev
@@ -62,7 +62,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: 
   weibo: #username
   flickr: #username
   500px: #username
