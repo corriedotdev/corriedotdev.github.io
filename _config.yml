@@ -6,7 +6,7 @@
 title: Corrie Dev
 email:
 description: Here is a description to use corrie
-url:  # the base hostname & protocol for your site
+url:  https:// # the base hostname & protocol for your site
 keywords: ["code", "corrie", "developer", "unity", "c#", "tutorials"]
 
 #
