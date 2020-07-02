@@ -3,7 +3,14 @@
 <div class="cover-card table-cell table-middle">
   {% if author.avatar %}
   <a href="{{ site.url }}/">
-    <img src="{{ site.url }}/img/{{ author.avatar }}" alt="" class="avatar">
+    <!-- <video src="{{ site.url }}/img/{{ author.avatar }}" poster="{{ site.url }}/img/logo.PNG" width="150px" height="150px" controls preload></video> -->
+    
+    <video id="videoElement" width="150" height="150" autoplay="autoplay">
+      <source src="{{ site.url }}/img/{{ author.avatar }}" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+    
+    <!-- <img src="{{ site.url }}/img/logo.PNG" alt="" class="avatar"> -->
   </a>
   {% endif %}
   <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
@@ -23,3 +30,15 @@
   </nav>
   {% include social-links.html %}
 </div>
+<script>
+  window.addEventListener('load', function(){
+    var newVideo = document.getElementById('videoElement');
+    newVideo.addEventListener('ended', function() {
+        this.currentTime = 0;
+        this.play();
+    }, false);
+
+    newVideo.play();
+
+});
+</script>

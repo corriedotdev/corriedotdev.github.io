@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Corrie Dev Blog
-  avatar: logo.PNG
+  avatar: logo-loop.mp4 #logo.PNG
   job: "Leaving some space in my head."
   bio: "Welcome to my page on the internet. I like AI, C#, VR & Unity." #"This is my page on the internet. PhD Research on data fusion and improving safety in non-autonomous vehicles." 
   email:
