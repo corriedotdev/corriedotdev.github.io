@@ -3,13 +3,13 @@ layout: post
 title: Hosting a Jekyll blog with no database
 excerpt: "This website is hosted without a back end. Imagine developing numerous static HTML pages such as header, content and footer elements and then stitching them together to get the page you see now. A static site generator builds a website once, then delivers the pages as static pages with no server side processing. From a high level, its doing a find and replace on key values.."
 categories: [code]
-tags: [blog,tutorial]
+tags: [tutorial]
 comments: true
 ---
 
 # How this site was created
 
-<a href="#" id="emailclick" onclick="replace_email()">My Email</a>
+
 
 I love the simplicity of this site. Writing a post in a code editor and compiling it like a project is more familiar than using a commercial solution. I also feel less restricted with what I can develop on the site without jumping through hurdles. 
 
@@ -63,6 +63,7 @@ Check out the following links for inspiration and further reading about this top
 * [A low level breakdown of jekyll](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 * [List of supported Ruby Rogue languages for code snippet highlights](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
 
+<a href="#" id="emailclick" onclick="replace_email()">My Email</a>
 
 <!-- SCRIPTS HERE -->
 <script>

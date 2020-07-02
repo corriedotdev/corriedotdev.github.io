@@ -5,7 +5,7 @@
 #
 title: Corrie Dev
 email:
-description: Here is a description to use corrie
+description: Corrie's blog 
 url:  # the base hostname & protocol for your site
 keywords: ["code", "corrie", "developer", "unity", "c#", "tutorials"]
 
@@ -36,7 +36,7 @@ owner:
   name: Corrie Dev Blog
   avatar: logo.PNG
   job: "Leaving some space in my head."
-  bio: "Everyone should have a page on the internet. This is mine."
+  bio: "Welcome to my page on the internet. I like AI, C#, VR & Unity." #"This is my page on the internet. PhD Research on data fusion and improving safety in non-autonomous vehicles." 
   email:
   disqus-shortname:
   twitter: corriedotdev
