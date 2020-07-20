@@ -35,8 +35,8 @@ kramdown:
 owner:
   name: Corrie Dev Blog
   avatar: logo-loop.mp4 #logo.PNG
-  job: "A window into head space."
-  bio: "Welcome to my page on the internet. I like AI, C#, VR & literally anything." #"This is my page on the internet. PhD Research on data fusion and improving safety in non-autonomous vehicles." 
+  job: "A window into my head space."
+  bio: "Welcome to my page on the internet. Interested in AI, C#, VR & literally anything." #"This is my page on the internet. PhD Research on data fusion and improving safety in non-autonomous vehicles." 
   email:
   disqus-shortname: corrie-dev
   twitter: corriedotdev
