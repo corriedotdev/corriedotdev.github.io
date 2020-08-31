@@ -1,20 +1,21 @@
 ---
 layout: post
-title: Hosting a Jekyll blog with no database
-excerpt: "This website is hosted without a back end. Imagine developing numerous static HTML pages such as header, content and footer elements and then stitching them together to get the page you see now. A static site generator builds a website once, then delivers the pages as static pages with no server side processing. From a high level, its doing a find and replace on key values.."
-categories: [code]
+title: Sentence a Day progressive app & Spotify Playlist Grabber
+excerpt: "Two simple C# projects that I couldnt seem to find with third party software so developed a solution.I can create a diary entry for each day using some old windows forms code that allows for minimizing to icon tray, progressive and can be continually worked on while functionality is still supported. The Spotify grabber returns all the songs in a play list with their artist and album, great if you want to migrate away from Spotify and move onto another platform without losing playlists. "
+categories: [c#, code]
 comments: true
 ---
 
-# How this site was created
+# Sentence a day
 
-I love the simplicity of this site. Writing a post in a code editor and compiling it like a project is more familiar than using a commercial solution. I also feel less restricted with what I can develop on the site without jumping through hurdles. 
+## Win Forms
 
-The platform has no third party storage access such as databases and the cms being used is jekyll. If you want to call it that. 
 
-From my understanding since starting the site up last night is that it it will ask for various configuration variables such as title, theme, categories etc and it will then inject these values this into generated html pages. Basically a super find and replace function for site themes. Its a little smarter however as we can set up categories, tags and links to other social media with only changing it in one place. What is kind of interesting is you have to "compile" the site every time you make a new post. I quite like it as I have it running locally and don't need to follow the auto deployments that github will do once you upload the site to your git repo. Thats where this site will live and be hosted at, github pages is a tool integrated into github repo that now allow you to host your own static sites on it.
+# Spotify Grabber
 
-If you want to set up yourself, then I would advise loading [this](https://jekyllrb.com/docs/step-by-step/01-setup/) in another tab. In short these are the steps to get the site set up. I did find some issues and this was primarily due to different site theme templates requiring different dependencies specified in the sites gem file. 
+## HTTP Auth
+
+
 
 ## In short
 These are the key things that can get you set up pretty quickly.

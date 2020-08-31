@@ -37,7 +37,9 @@ VB Cable for Xtoimg
 
 ## First attempt
 
-Correct IQ should be set. 
+I have rendered a short compilation that I will link here once its complete of the first attempts. I was recording to document it as it is a really exciting topic, but to also fall back on if there are configuration issues. Below are some examples of the issues I ran into.
+
+- Correct IQ should be set. 
 Test on FM first
 Coax cable too tight around sdr
 Windows Direct Sound Virtual Cable
