@@ -1,13 +1,15 @@
 ---
 layout: post
-title: Low-rate Picture Transmission from Weather Satellites 1
+title: Low-rate Picture Transmission from Weather Satellites
 excerpt: "Watched a really cool video on an attack on a garage door by reverse engineering the radio transmission from the fob. I am now looking at taking real time photos from weather satellites."
 categories: [Satellites]
 comments: true
-
+galleries:
+ 1:
+   -
+     - { url: '/img/first-signal-1.PNG', alt: '1'}
+     - { url: '/img/first-signal-2.PNG', alt: '2'}
 ---
-
-# What
 
 # Hardware
  HRPT at a 30 degree the Meteors M2 look out the question, GOES 13 is 25.4.. Would love to try get an image from GOES 16  and then try a Meteor M2 if the initial GOES 16 test works. But doubtful as noted SO NOAA 15 looks like my best bet due to polar orbits.
@@ -35,17 +37,25 @@ VB Cable for Xtoimg
 [5]:https://www.pe0sat.vgnet.nl/sdr/sdr-software/sdrsharp/
 [6]: http://www.stoff.pl/
 
-## First attempt
+## Further Attempts
 
-I have rendered a short compilation that I will link here once its complete of the first attempts. I was recording to document it as it is a really exciting topic, but to also fall back on if there are configuration issues. Below are some examples of the issues I ran into.
+I have rendered a short compilation video that I will link here once its complete of the first attempts. I was recording to document the process as it is a really exciting topic, but to also fall back on if there are configuration issues. In short there were a lot. Below are the resolutions completed to receive a signal, albeit weak I think if I can place the v-pole antenna in a better location with better sky coverage it should work as expected.
+
+An image below is an example of the signal I received. As you can see, there is a lot of noise, but clear indication its from a satellite. 
 
 - Correct IQ should be set. 
-Test on FM first
-Coax cable too tight around sdr
-Windows Direct Sound Virtual Cable
+- Test on FM first
+- Coax cable too tight around sdr
+- Windows Direct Sound Virtual Cable
+- multiplier needed to be set to 40
 
-## Third
-multiplier set to 40
+{% include gallery.html  gallery=1 %}
+
+
+
+## Next Steps
+
+Receiving a signal was ambitious in my mind, due to the location of my hardware in a busy city it did seem unlikely that I would get an image without so much noise. Proof of concept and configuring everything else however seemed to be a success and look forward to taking it out to the Scottish highlands and getting a better direct signal as it passed from south to north or vise versa. Currently im only getting 90 degrees of signal as it passes over head due to the antenna being mounted facing North on a wall of a tall apartment complex.
 
 ## Further Reading
 * [Hacking Radio](https://www.youtube.com/watch?v=1RipwqJG50c)
@@ -53,7 +63,6 @@ multiplier set to 40
 * [Sat Wiki](https://www.satwiki.info/index.php?title=Getting_started)
 * [Two-line element coordinate system](https://spaceflight.nasa.gov/realdata/sightings/SSapplications/Post/JavaSSOP/SSOP_Help/tle_def.html)
 * [Unidentified Noise](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)
-
 
 
 

@@ -19,7 +19,6 @@ So here are the steps I've followed
 
 - I have a static IPv4 assigned from my ISP as it was using a CGN (see below for more details on this)
 
-
 - [This guide][1] was followed from the ISP to open ports
 
 - I have also created a DHCP filter and statically assigned my LAN ip so the machine IP locally won't expire 
@@ -70,10 +69,6 @@ Network Address Translation
 The technology was created to prevent ISP's from assigning multiple IP addresses to each host a customer has, that connects to the router or when the network would change. From this statement alone you can see how without NAT type being another layer of IPv4 address preservation, there would be even fewer.. if any addresses remaining. To this extent it is interesting to see that ISP's are now preserving their IP addresses even more by implementing it from a carrier level using CGN.
 
 On the internal network, when a packet is past through the NAT / router to the external network, the IP address in the source field of the packet header  is replaced with the IP address of the external IP address. Once the IP has been changed, the connection that the packet is using will need to be assigned a port number from a pool of available ports. This port will be inserted into the source port packet field and then forwards the packet to the external address. The NAT device makes an entry in a translation table containing the internal IP address, original source port, the translated source port and internal IP address. Therefore, the device that is receiving the packet does not know it has undergone this translation of IP addresses, from internal to external. A similar process is undertaken when a load balanced client-server architecture is being used. This is actually very topical to what I am working on with my current client regarding F5 load balancers. 
-
-
-
-
 
 **How many IPV4 Addresses are there**
 2^32 = 4,294,967,296
