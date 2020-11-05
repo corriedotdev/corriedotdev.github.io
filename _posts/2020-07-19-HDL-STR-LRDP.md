@@ -4,6 +4,8 @@ title: Low-rate Picture Transmission from Weather Satellites
 excerpt: "Watched a really cool video on an attack on a garage door by reverse engineering the radio transmission from the fob. I am now looking at taking real time photos from weather satellites."
 categories: [Satellites]
 comments: true
+# image:
+#   feature: github-dns.png
 galleries:
  1:
    -
@@ -35,7 +37,7 @@ VB Cable for Xtoimg
 [3]:https://www.ebay.co.uk/itm/RTL-SDR-Blog-V3-original-RTL2832U-1PPM-HF-BiasT-SMA-Dongle/324123706220?epid=15022750294&hash=item4b7747436c:g:7QIAAOSwoJxbdvkq
 [4]:https://wxtoimgrestored.xyz/
 [5]:https://www.pe0sat.vgnet.nl/sdr/sdr-software/sdrsharp/
-[6]: http://www.stoff.pl/
+[6]:http://www.stoff.pl/
 
 ## Further Attempts
 

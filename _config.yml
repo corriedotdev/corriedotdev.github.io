@@ -36,9 +36,9 @@ owner:
   name: Corrie Dev Blog
   avatar: logo-loop.mp4 #logo.PNG
   job: "A window into my head space."
-  bio: "Welcome to my page on the internet. Interested in C#, VR, Design & literally anything." #"This is my page on the internet. PhD Research on data fusion and improving safety in non-autonomous vehicles." 
+  bio: "Welcome to my page on the internet. PhD Research Student. Interested in C#, VR, Design & literally anything." #"This is my page on the internet." 
   email:
-  disqus-shortname: corrie-dev
+  # disqus-shortname: corrie-dev
   twitter: corriedotdev
   facebook: #username
   google:
@@ -61,7 +61,7 @@ owner:
   foursquare: #username4
   steam: #username
   dribbble: #username
-  youtube: CorriejgreenCoUk
+  youtube: #CorriejgreenCoUk
   soundcloud: 
   weibo: #username
   flickr: #username
