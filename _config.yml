@@ -38,7 +38,7 @@ owner:
   job: "A window into my head space."
   bio: "Welcome to my page on the internet. 3D Graphics Research. Interested in Unity, C#, VR, Design & literally anything." #"This is my page on the internet." 
   email:
-  # disqus-shortname: corrie-dev
+  disqus-shortname: corrie-dev
   twitter: corriedotdev
   facebook: #username
   google:
@@ -61,7 +61,7 @@ owner:
   foursquare: #username4
   steam: #username
   dribbble: #username
-  youtube: #CorriejgreenCoUk
+  youtube: UCIcYBp72Q7437s-MiaE_cEw
   soundcloud: 
   weibo: #username
   flickr: #username

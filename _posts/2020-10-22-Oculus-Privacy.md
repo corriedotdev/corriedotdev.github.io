@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Privacy in Oculus VR is Dead and it's going to get worse.
+title: Privacy in Oculus VR is Dead and it's going to get worse. Update 11/12/2020
 excerpt: "Oculus have updated their privacy policy to align more with their parent company Facebook. Almost every action you make is linked back to your official Facebook account ID, and forget using an online persona, if caught with an online alias your new Quest 2 headset is now a £300 paper weight.
 
 Meta data isn't meta if you are recording everything on separate applications."
