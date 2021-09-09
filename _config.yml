@@ -7,7 +7,7 @@ title: Corrie Dev
 email:
 description: Corrie's blog 
 url:  # the base hostname & protocol for your site
-keywords: ["code", "corrie", "developer", "unity", "c#", "tutorials"]
+keywords: ["code", "corrie", "developer", "unity", "c#", "tutorials", "vr", "virtual reality", "xr"]
 
 #
 ###################################
@@ -36,7 +36,7 @@ owner:
   name: Corrie Dev Blog
   avatar: logo-loop.mp4 #logo.PNG
   job: "A window into my head space."
-  bio: "Welcome to my page on the internet. XR Research. Interested in Unity, C#, UX, Design & literally anything." #"This is my page on the internet." 
+  bio: "Welcome to my page on the internet. XR Researcher. Interested in Unity, C#, UX, Design & literally anything." #"This is my page on the internet." 
   email:
   disqus-shortname: corrie-dev
   twitter: corriedotdev

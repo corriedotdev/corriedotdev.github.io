@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Future of Programming & The Humane Representation of Thought - Bret Victor 
-excerpt: ""
+title: The Future of Programming & The Humane Representation of Thought 
+excerpt: "This is more of a real time write up of two videos I have found from quite a special computer scientist Bret Victor. He is clearly passionate about interface design and has some incredibly interesting write ups looking into the past of interaction and the initial words mentioned in early literature that is used everyday now."
 categories: [code]
 comments: true
 galleries:
@@ -22,18 +22,17 @@ galleries:
 
 
 # Foreword
-This is more of a real time write up of two videos I have found from quite a special computer scientist Bret Victor. He is clearly passionate about interface design and has some incredibly interesting write ups looking into the past of interaction and the initial words mentioned in early literature that is used everyday now. I am unsure on his venture using paper and stickers to code with computer vision to complete tasks. As 
-I haven't looked into it enough put simply.
+This is more of a real time write up of two videos I have found from quite a special computer scientist Bret Victor. He is clearly passionate about interface design and has some incredibly interesting write ups looking into the past of interaction and the initial words mentioned in early literature that is used everyday now. I am unsure on his venture using paper and stickers to code with computer vision to complete tasks. As I haven't looked into it enough put simply.
 
 What I can see this being is appended to current methods of visualizing. For example writing on a white board. There is some math being written out in real time and getting a calculator is slow.. lets just have a projector beam the answer onto the whiteboard so the math is already done. We wrote the completed formulas and the computer vision did the rest. Little things like this I can see having a high impact value on society, its cheap and affordable. I will admit though I am not too sure what Dynamicland really is.. I find it hard to believe that VR can't solve the same problem that is being described here. Why not find a more human and intuitive way of sharing ideas? Gestures? Real time communication and exchange of ideas real time with physical avatars or real time lidar scans. 
 I don't know but I will find out. Enjoy the write up, I was essentially a scribe for the videos.
 
 #  The Future of Programming
-Initially when watching this presentation I just lacked the humour, I really have no idea what on earth the audience was laughing at I didn't find it funny but I digress.
+Initially when watching this presentation I just lacked the humour, I really have no idea what on earth the audience was laughing at I didn't find it funny, but more of a story of technology through time. Its not funny really, its amazing. Its fact how insane progress has been over the last 100 years. The wright brothers will always be a date to hold for comparison. 1903 We had our first flight, the development of the pump was 2000BC by the Egyptians, simply buckets on some string. You would be surprised the impact and influence on the world the pump had, it helped create the combustion engine and prior allowed bridges to be developed. [More here if curious on the history of the pump](https://www.pumpsandsystems.com/history-pumps-through-years)
 
 The nature of adopting ideas leads into the brain of not adopting new ways of thinking, brains are slow but computers are fast. People need to adopt to new ideas. Lots of resistance to new ways of working, unlearning what you know and approaching a new technique. Such as going from machine code to SOAP (Assembly.) Soon after SOAP was replaced with FORTRAN. There is resistance to learning a new language or method of adopting new ideas.
 
-##4 Ideas
+## 4 Ideas Discussed
 - Coding -> Direct Manipulation of Data
 - Procedures -> goals and constraints
 - Text Dump -> spatial representation (here is where I can forsee VR being used as another spatial representation)
