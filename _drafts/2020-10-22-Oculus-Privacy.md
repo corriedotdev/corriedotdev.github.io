@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Privacy in Oculus VR is Dead and it's going to get worse. Update 11/12/2020
-excerpt: "Oculus have updated their privacy policy to align more with their parent company Facebook. Almost every action you make is linked back to your official Facebook account ID, and forget using an online persona, if caught with an online alias your new Quest 2 headset is now a £300 paper weight.
+title: Privacy Considerations for XR. Update 11/12/2020
+excerpt: "Oculus have updated their privacy policy to align more with their parent company Facebook.
 
-Meta data isn't meta if you are recording everything on separate applications."
+I do say Meta data isn't meta if you are recording everything, the future of this space has many privacy implications."
 modified: 2013-05-31
 categories: [Privacy]
 tags: [privacy, oculus, facebook, vr]
@@ -23,24 +23,20 @@ galleries:
 ---
 
 # Opening Statement
-Before reading I would like to note that there are some statements here that are speculative and these will be marked as such. Otherwise all information was gathered from official websites and supporting documentation. Assumptions include how Oculus may be tracking users interiors in the future to enhance their AR experience plans based of their 2020 Facebook Connect event. I also must note that some of the language used here is more on the edgy sides of my posts. We are human. We swear from time to time when surprised by something and in this case I was naturally shocked at some of the findings. I am not an advanced writer who can convey extreme senses of emotion 
+Before reading I would like to note that there are some statements here that are speculative regarding the future and these will be marked as such. Otherwise all information was gathered from official websites and supporting documentation. Assumptions include how Oculus may be tracking users interiors in the future to enhance their AR experience plans based of their 2020 Facebook Connect event. 
 
 ## Updated Oculus Policy
 
-On the 11th of October 2020 their policy was updated. The delta between 10th and the 11th isn't significant and honestly Oculus quest requires a Facebook account to even get onto the Quest 2 device which officially started shipping on the 14th of October When you launch the headset up for the first time it requires an online connection and then you must sign into your 'official' Facebook account. You are allowed to play offline after this moment, but [forums online](https://www.reddit.com/r/oculus/comments/iv0yex/using_oculus_offline_avoiding_data_collection/) came to the same conclusion I did and that is the Quest will pool your user movements and other data into a queue for when you connect online again.
+On the 11th of October 2020 their policy was updated. The delta between 10th and the 11th isn't significant. The Oculus quest requires a Facebook account to even get onto the Quest 2 device which officially started shipping on the 14th of October When you launch the headset up for the first time it requires an online connection and then you must sign into your 'official' Facebook account. You are allowed to play offline after this moment, but [forums online](https://www.reddit.com/r/oculus/comments/iv0yex/using_oculus_offline_avoiding_data_collection/) came to the same conclusion I did and that is the Quest will pool your user movements and other data into a queue for when you connect online again.
 
 ## Use Cases of Data Management
-So I don't have Instagram, nor an active Facebook account as such. It contains some friends and a now empty wall after an online purge. It is however using my real name and not an alias so any data collected by Facebook & Oculus can now be linked back to this profile, acting as a primary key for any other meta data collected by themselves and their partners.
-
-I have first hand experience with data processing from companies like Facebook, and the processing that is handled behind the scenes. Not all information is hashed or encrypted for a start. However I want to start on a scenario where data acquisition is good, there are of course many advantages but an insight to how mobile games and games in general use analytics will set the stage as to why Oculus may now be collecting too much. 
-
-When a game is released to beta and players inevitably get stuck at a specific level, I have no way of knowing until I get an email saying "please help the game is busted" to which I respond "get good." when in reality after a few emails I will investigate the issue. [Unity Remote settings](https://blogs.unity3d.com/2017/06/02/introducing-remote-settings-update-your-game-in-an-instant/) allows for changing specific game variables on the fly without recompiling a new apk for executable, therefore speeding up an issue to resolution (also great to enabling seasonal events or 2xp days). Using data gathered exclusively in game from player actions like time taken to pass a level, their health after a boss fight, what equipment they have out at a specific point, how much coin they have etc. All of this meta data is good for the developer to tailer the experience to how they imagine it.
+When a game is released to beta and players inevitably get stuck at a specific level, I have no way of knowing until I get an email saying "please help the game is busted" to which I respond. [Unity Remote settings](https://blogs.unity3d.com/2017/06/02/introducing-remote-settings-update-your-game-in-an-instant/) allows for changing specific game variables on the fly without recompiling a new apk for executable, therefore speeding up an issue to resolution (also great to enabling seasonal events or 2xp days). Using data gathered exclusively in game from player actions like time taken to pass a level, their health after a boss fight, what equipment they have out at a specific point, how much coin they have etc. All of this meta data is good for the developer to tailer the experience to how they imagine it.
 
 [Game Analytics](https://gameanalytics.com/docs/item/unity-sdk) however is an example of an SDK which you integrate into your application, this which is what a "Partner" is. When a privacy policy says "shared with our partners" this is what it often means. Where a third party stores and data provided from Facebook on a specific users online habits which will then be passed onto the aforementioned partner which will then lead to something like targeted advertisements.
 
 
 # I Requested all my Oculus data
-You can request information stored by Facebook specifically, but the focus of this discussion is Oculus.. as they have the power to record a whole lot more with their proprietary hardware containing 180 cameras, mics and operating system. Its absolutely terrifying. After visiting their [privacy centre](https://secure.oculus.com/my/privacy/#view-your-information)) you can view information stored in a nicely formatted webpage without having to download anything. Here we see some basic information that we expect such as name, email, last log in time and what apps and games you've played and viewed. However there was one section that caught my attention. "*Information About your devices.*"
+You can request information stored by Facebook specifically, but the focus of this discussion is Oculus.. as they have the power to record a whole lot more with their proprietary hardware containing 180 cameras, mics and operating system. After visiting their [privacy centre](https://secure.oculus.com/my/privacy/#view-your-information)) you can view information stored in a nicely formatted webpage without having to download anything. Here we see some basic information that we expect such as name, email, last log in time and what apps and games you've played and viewed. However there was one section that caught my attention. "*Information About your devices.*"
 
 {% include gallery.html  gallery=3 %}
 
@@ -49,7 +45,7 @@ It contains a a list of my oculus VR headsets and the computers running oculus h
 
 {% include gallery.html  gallery=2 %}
 
-I wasn't happy about this, and found in some more forums of people who were disabling write access to a specific log directory in %appdata% so I need to investigate this. My initial reaction after searching was the logs there are ok and just basic system stuff. Regardless I was unaware my machine was syncing to the oculus servers when I am not even using Oculus Home or a VR device. 
+I was unaware my machine was syncing to the oculus servers when I am not even using Oculus Home or a VR device. 
 
 I then downloaded my data to see if there was any additional information that was not being displayed in the website. To my surprise there was a lot more in there. All files were in html and a lot seemed to be items you have in your virtual home but there was also a json file which contained everything. I threw this into a parser app in C# to get a better understanding.
 
