@@ -18,6 +18,32 @@ img {
   margin-right: auto;
 }
 
+.game-container {
+  margin: 20px 20px 0 0;  
+  /*border: 5px solid #333;*/
+  overflow: auto
+}
+.game-thumb {
+  float: left
+}
+.game-thumb img {
+  display: block;
+  width: 150px;
+}
+.game-content {
+  margin-left: 210px
+}
+.game-title {
+  font-weight: bold;
+  font-size: 200%
+}
+.game-subtitle {
+  color: #8d7edc;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+
 // Tables
 table,
 th,
