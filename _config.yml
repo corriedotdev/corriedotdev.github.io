@@ -7,7 +7,7 @@ title: Corrie Dev
 email:
 description: Corrie's blog 
 url:  # the base hostname & protocol for your site
-keywords: ["code", "corrie", "developer", "unity", "c#", "tutorials", "vr", "virtual reality", "xr"]
+keywords: ["corrie blog", "corries dev blog", "code", "corrie", "developer", "unity", "c#", "tutorials", "vr", "virtual reality", "xr"]
 
 #
 ###################################
@@ -55,7 +55,7 @@ owner:
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: corriedotdev
+  instagram: #corriedotdev
   lastfm: #username
   tumblr: #username
   pinterest: #username
