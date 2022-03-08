@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Science on Uploading Human Consciousness.
+title: Found a cool paper on consciousness.
 excerpt: "Technology can record neuron activity, and also create a digital copy of them post mortem. Studies have sliced a small segment of a rat brain and digitally reconstructed them into a model. Does this mean if you repeated this process for the whole brain your consciousness would be reconstructed digitally? Recent studies also raise questions about whether brain damage and death are permanent. If that doesn't make you curious.."
 categories: [philosophy]
 comments: true

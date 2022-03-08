@@ -48,7 +48,8 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  behance: corrie_green_gfx
+  behance: #corrie_green_gfx
+  artstation: corriedotdev
   github: corriedotdev
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
