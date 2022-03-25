@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 📈 Investing is the best game.
-excerpt: "Becoming financially literate to break out the loop, balance your portfolio and understand the rules and laws of our society to capitalize upon. It soon becomes the best game out there. Basic discussion on my views on crypto and stocks included. Not investment advice, but points to support becoming financial literate and have enough money to do what you love."
+title: 📈 Investing is fun.
+excerpt: "Becoming financially literate to break out the loop, balance your portfolio and understand how much knowledge there is to gain from setting up a company. Basic discussion on my views on crypto and stocks included. Not investment advice, but points to support becoming financially literate."
 categories: [investment]
 comments: true
 
@@ -10,11 +10,11 @@ comments: true
 Encourage discussion in the discuss comment section, alternatively please reach out to me on twitter @corriedotdev
 
 ### Opening
-The safest option is to invest into an index tracker fund such as the S&P 500 and get on average 5-10% roi each year tax free if using an S&S ISA. Vanguard will do all this for you in their ISA but don't do that, do it yourself. Vanguard even have a tracker on most brokerages.. I prefer more risk, more variation and understanding how companies operate so prefer to target < 3 investments at once in order to intimately understand the business or service.
+The safest option is to invest into an index tracker fund such as the S&P 500 and get on average 5-10% roi each year tax free if using an S&S ISA. Vanguard will do all this for you in their ISA but don't do that, do it yourself. Vanguard even have a tracker on most brokerages.. I prefer more risk, more variation and understanding how companies operate so prefer to target less than 3 investments at once in order to intimately understand the business or service.
 
-Mainly the objective of this post is to share the process of understanding the system you live in and how you can take advantage of it for your own benefit. I am not against working for a company, not at all (in fact I prefer it a lot of the time) however there are lessons learnt in starting your own that transcend just running a company, it allows you to invest in companies better. 
+Mainly the objective of this post is to share the process of understanding how companies work and how you can invest in others companies. I am not against working for a company, not at all (in fact I prefer it a lot of the time) however there are lessons from starting your own that transcend just running a company, it allows you to invest in companies better. 
 
-It doesn't take much to become uncomfortably familiar with the 9-5 work life and how little exploration it allows for your own projects. Your own personal development improves the quality of work in business so there is a disconnect between reality here. So lets change that👌
+Your own personal development improves the quality of work in business so there is a disconnect between reality if you cant progress on your personal projects as well. So lets change that👌
 
 > It is either an asset or a liability. If its a liability don't get it, you don't need it.
 
@@ -39,7 +39,7 @@ Step 2 unless exposed to other investing its standard for people to just use the
 You will need to file a confirmation statement every year to let HMRC know if the company is trading still 12 months later or if it is Dormant, where the company inst dissolved but not actively trading. Also your accounting needs to be filed every year before 6th April, unless you have a partial year in which you can carry over to the next year if its only been a few months or file a partial year accounts. 
 
 ## Getting Pay
-You pay yourself as a director of your company in the form of PAYE and dividends. Your investments in the ISA account are also tax free, so sell a share or two to buy that new bike.
+You pay yourself as a director of your company in the form of PAYE and dividends. Your investments in the ISA account are also tax free, so sell a share or two for a holiday etc.
 
 
 ### SIPS - Self-Invested Personal Pension
@@ -47,7 +47,7 @@ You pay yourself as a director of your company in the form of PAYE and dividends
 PAYE is pay-as-you-earn and what a standard pay check looks like. You also have your pension, national insurance contributions (possibly more "benefits" like car reduction) taken off your paycheck so its always less. Notice how much your pension comes out? The best hack for this is to have your own company contribute to a SIPS pension fund, where YOU control the pension contributions. You cant touch this money until retirement but at least you are in control of your investments. I however do not have a pension, maybe a few hundred from various jobs but if I am in a situation where I need or want my pension money I have been playing the game wrong and not living the life I want so whats the point. However SIPPS allows your "employer" to match your pension contribution tax free so absolutely consider this if you have your own company. 
 
 ### Dividends 
-Your debit account should always just have bare minimum, why have fiat currency.. its just useless, i cant make money from it sitting in my account and its vulnerable to exploitation. A credit card is your buffer between your business bank account and your investments. If you need something there is a process to get your money from your business. Firstly need to have a minutes meeting and establish how much dividend is being taken out from your in profit company (if not in profit it can be an 'illegal' dividend), it is distributed proportionate to your % owned in the company. As the only director and employee I get 100% of the dividend. Tax for dividends change, but [HMRC](https://www.gov.uk/tax-on-dividends) have a great step by step. Honestly HMRC system is bloody great, it makes giving them money and the correct amount a breeze (although frequent.)
+Debit accounts have just have bare minimum (apart from company where you need to have enough to pay the taxes due), why would you want fiat currency.. its just useless, i cant make money from it sitting in my account and its vulnerable to exploitation. A credit card is your buffer between your business bank account and your investments. If you need something there is a process to get your money from your business. Firstly need to have a minutes meeting and establish how much dividend is being taken out from your in profit company (if not in profit it can be an 'illegal' dividend), it is distributed proportionate to your % owned in the company. As the only director and employee I get 100% of the dividend. Tax for dividends change, but [HMRC](https://www.gov.uk/tax-on-dividends) have a great step by step. Honestly HMRC system is bloody great, it makes giving them money and the correct amount a breeze (although frequent.)
 
 
 1. You do not pay tax on any dividend income that falls within your Personal Allowance (the amount of income you can earn each year without paying tax). 2022 is £2000
@@ -65,7 +65,7 @@ So even if you only have a dividend of £2000, you're still getting 2k tax free!
 So you are paying yourself in dividends and your PAYE is only your tax free allowance in 2022/23 it is £12,570. This keeps national insurance contributions to as little as possible.
 
 ## Investing
-Dollar cost averaging is the way to do it. Here is how to mitigate taxable income. If you complete a tax return, you do not need to declare any ISA interest, income or capital gains on it.
+Dollar cost averaging is the way to do it. If you complete a tax return, you do not need to declare any ISA interest, income or capital gains on it.
 
 ### S&S ISA - Stocks & Shares Individual Savings Account
 ISA's are the best thing about this entire thing. Better yet, you can trade your money in the market without letting the bank do it and charge you for the privilege! Fuck that! Find a broker by googling "UK Stock and Share ISA Broker" trading212 or ig.com or e-toro. Give them a search. 
@@ -77,10 +77,10 @@ You can only have one ISA so if you currently have one and want to transfer to a
 Any money you make from your investments is tax free in the ISA. So you work for your company to get capital fast and smart. Then invest your money into larger companies and live off the returns! Its sick, the world looks different once you achieve it. Its not easy but its worth it.
 
 ### Crypto
-A diverse portfolio is healthy, you don't want all your eggs in one basket. However the conviction I have for my investments just now is so strong im 100% in one one. Explore with cryto, understand how it works and how staking your coin to make passive income is actually really an easy way to make income each month. 
+A diverse portfolio is healthy, you don't want all your eggs in one basket. However the conviction I have for my investments is good just now that I don't do crypto but enjoy researching and following its story. Explore with cryto, understand how it works and how staking your coin to make passive income is actually a smart way to make passive income each month. 
 
 ### Stocks
-Alteratively you could set up a stocks and shares isa where you invest in companies that provide dividends frequently. Not all companies give dividends so your account only increases if the stock goes up, $APPL was a good one along with $MSFT from memory. Its nice getting paid from a large company like that for doing nothing other than invest. These companies are blue chip stocks but not going to get rapid % roi so I avoid that. I want to make a lot of money fast with minimal but some risk. 
+You could set up a stocks and shares isa where you invest in companies that provide dividends frequently. Not all companies give dividends so your account only increases if the stock goes up, $APPL was a good one along with $MSFT from memory. Its nice getting paid from a large company like that for doing nothing other than invest. These companies are blue chip stocks but not going to get rapid % roi so I avoid that. I want to make a lot of money fast with minimal but some risk. 
 
 Rather than that, look outward. What companies are growing? What industries are growing? 
 
