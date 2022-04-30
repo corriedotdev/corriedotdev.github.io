@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game Server Port Forwarding, CGN & NAT Type 'Strict'
+title: 🌐 Game Server Port Forwarding, CGN & NAT Type 'Strict'
 excerpt: "Sent down a hole of configuration to get my game server visible on the WAN. Discussing what Carrier Grade Nat (CGN) is and Restricted NAT types."
 categories: [Networking]
 comments: true

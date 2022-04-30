@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sentence a Day App & Spotify Playlist to CSV
+title: 👨‍💻 Sentence a Day App & Spotify Playlist to CSV
 excerpt: "Two simple C# projects that I wanted to make for myself. One allows for a diary entry for each day using some old windows forms code that allows for minimizing to icon tray, progressive and can be continually worked on while functionality is still supported. The Spotify grabber returns all the songs in a play list with their artist and album, great if you want to migrate away from Spotify and move onto another platform without losing playlists, or just to keep regular back ups of your beloved playlists. "
 categories: [code]
 comments: true

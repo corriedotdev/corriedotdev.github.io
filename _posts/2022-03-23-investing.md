@@ -7,34 +7,35 @@ comments: true
 
 ---
 
-Encourage discussion in the discuss comment section, alternatively please reach out to me on twitter @corriedotdev
+Encourage discussion in the discuss comment section, alternatively please reach out to me on twitter @corriedotdev Not financial advice but an opinion piece and should be taken as such.
 
 ### Opening
 The safest option is to invest into an index tracker fund such as the S&P 500 and get on average 5-10% roi each year tax free if using an S&S ISA. Vanguard will do all this for you in their ISA but don't do that, do it yourself. Vanguard even have a tracker on most brokerages.. I prefer more risk, more variation and understanding how companies operate so prefer to target less than 3 investments at once in order to intimately understand the business or service.
 
-Mainly the objective of this post is to share the process of understanding how companies work and how you can invest in others companies. I am not against working for a company, not at all (in fact I prefer it a lot of the time) however there are lessons from starting your own that transcend just running a company, it allows you to invest in companies better. 
+Mainly the objective of this post is to share the process of understanding how companies work and how you can invest in others companies. There are lessons from starting your own that transcend just running a company, it allows you to invest in other companies better. 
 
-Your own personal development improves the quality of work in business so there is a disconnect between reality if you cant progress on your personal projects as well. So lets change that👌
+Your own personal development will improve your output of work in business, so there is a disconnect between reality if you cant progress on your personal projects alongside. It should be encouraged. So lets change that👌
 
 > It is either an asset or a liability. If its a liability don't get it, you don't need it.
 
-Knowledge is an asset, if that new laptop will support your understanding of architectures and help you learn its an asset. If that new pair of shoes is just calling you but you have shoes its a liability. People are liabilities, breakdown everything and you will see what adds value to your life both financially and intrinsically. 
+Knowledge is an asset, if that new laptop will support your understanding of architectures and help you learn its an asset. If that new pair of shoes is just calling you but you have shoes its a liability. People are liabilities, breakdown everything and you will see what adds value to your life both financially and intrinsically. This was discussed more in the book "Rich Dad Poor Dad."
 
 ## Start your own company
-It costs £12 in the UK. You can then start researching what is a companies responsibilities. It is an invisible entity, it has a bank, accounting duties.. parents in the form of CEO. Everything a living person has a company has, including legalities.
+It costs £12 in the UK. You can then start researching what is a companies responsibilities. It is an invisible entity, it has a bank, accounting duties.. even parents in the form of directors. Everything a living person has a company has, including legalities.
 
-I recommend doing your own accounting, using software like Crunch you become familiar with what can be expensed. You have a £5 allowance for food each day which is tax deductible when at clients workplaces. The use of your own hardware can be claimed or if the hardware is used exclusively for the company you can also claim this as an expense. Your miles in your own car can be as well. Internet.. anything you need to make money in your company is an expense. It improves and contributes to the growth of the company, you need to reinvest as a priority. This is a great indicator of a company looking to grow, good to know for the stock market.
+I recommend doing your own accounting, using software like Crunch you become familiar with what can be expensed. You have a £5 allowance for food each day which is tax deductible when at clients workplaces. The use of your own hardware can be claimed or if the hardware is used exclusively for the company, you can also claim this as an expense. Your miles in your own car can be as well for essential travel to clients. Internet.. anything you need to make money in your company is an expense. It improves and contributes to the growth of the company, you need to reinvest as a priority. This is a great indicator of a company looking to grow, and something to look for the stock market.
 
-> Reinvest everything into your passion or interests before investing in someone elses.
+> In relation to your company, reinvest everything into this passion or interest before investing in someone elses.
 
 Working class loop looks something like 
 1. Company hires you - you are working as an employee
-2. You save your money into a bank account - maybe like 2% interest
+2. You save your money into a bank account - maybe like 2% interest in ISA
 3. Bank reinvests your money into a company - loop back to 1 when you change jobs
 
-You are being taken advantage of at each step of the game. Step 1 you are providing such value to a company that they make money off you. Why not make as much dollar to value YOU add as possible? Cut them out.
+You are being taken advantage of at each step of the game. 
+- Step 1 you are providing such value to a company that they make money off you. Why not make as much dollar to value YOU add as possible? Cut them out.
 
-Step 2 unless exposed to other investing its standard for people to just use the ISA from the bank you have. 2% interest? Inflation? .. not ideal. That is the biggest lesson in this entire system, you can work for another company and have a happy life, but invest your money smarter. 
+- Step 2 unless exposed to other investing opportunities it is standard for people to just use the ISA from the bank you have you direct debit in. 2% interest? Inflation? .. not ideal. That is the biggest lesson in this entire system, you can work for another company and have a happy life, but invest your money smarter. 
 
 You will need to file a confirmation statement every year to let HMRC know if the company is trading still 12 months later or if it is Dormant, where the company inst dissolved but not actively trading. Also your accounting needs to be filed every year before 6th April, unless you have a partial year in which you can carry over to the next year if its only been a few months or file a partial year accounts. 
 
@@ -80,9 +81,9 @@ Any money you make from your investments is tax free in the ISA. So you work for
 A diverse portfolio is healthy, you don't want all your eggs in one basket. However the conviction I have for my investments is good just now that I don't do crypto but enjoy researching and following its story. Explore with cryto, understand how it works and how staking your coin to make passive income is actually a smart way to make passive income each month. 
 
 ### Stocks
-You could set up a stocks and shares isa where you invest in companies that provide dividends frequently. Not all companies give dividends so your account only increases if the stock goes up, $APPL was a good one along with $MSFT from memory. Its nice getting paid from a large company like that for doing nothing other than invest. These companies are blue chip stocks but not going to get rapid % roi so I avoid that. I want to make a lot of money fast with minimal but some risk. 
+You could set up a stocks and shares isa where you invest in companies that provide dividends frequently known as "Dividend stocks." Not all companies give dividends so your account only increases if the stock goes up, $APPL was a good one along with $MSFT from memory. Its nice getting paid from a large company like that for doing nothing other than investing. These companies are blue chip stocks / value stocks but not going to get rapid % roi so I avoid that. I want to make a lot of money fast with minimal but some risk. For this there are fundamentals to follow which allow you to stay convicted to your investment.   
 
-Rather than that, look outward. What companies are growing? What industries are growing? 
+Look outward. What industries are growing? What companies are working on this? 
 
 [Not even god himself can beat dollar cost averaging.](https://tradingplatforms.com/uk/) 
 You want to beat the index or you should just invest in the index, so find a company you like, invest when you can. Get conviction from understanding the companies balance sheet, how are they expanding, is their mission statement valid.
@@ -107,7 +108,9 @@ https://goodcalculators.com/stock-calculator/
 © 2015-2022 goodcalculators.com
 
 ### Forcasting
-We can't predict the future but we can get pretty good at it. [Superforcasters](https://www.goodreads.com/book/show/23995360-superforecasting) is a great read and turns out pretty accurate. Developing a regression algorithm using AI for the last 10 years of $TSLA stock also seems pretty accurate. Stonks go up. Below are some fundamental concepts you should understand to quickly see what patterns exist and where you can capitalize on them. I don't like day trading that much, its not that safe but these allow you to get intimate with your stock of choice and maybe can start seeing patterns after market shifts. 
+We can't predict the future but we can get pretty good at it. [Superforcasters](https://www.goodreads.com/book/show/23995360-superforecasting) is a great read and turns out pretty accurate... Developing a regression algorithm using AI for the last 10 years of $TSLA stock ALSO seems pretty accurate. Stonks go up. Below are some fundamental concepts you should understand to quickly see what patterns exist and where you can capitalize on them when getting to understand and become familiar with a stock. It takes time to recognise what a company is doing in the stock, hence why I only invest in one as I cant fully immerse myself into news for many companies. 
+
+I don't like day trading that much, its not that safe but these allow you to get intimate with your stock of choice and maybe can start seeing patterns after market shifts. 
 
 - Squeeze (gamma squeeze) <<<< my favorite for seeing a potential move
 - Head and shoulders

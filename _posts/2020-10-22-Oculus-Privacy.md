@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Privacy Considerations for XR. Update 11/12/2020
+title: 🕵️ Privacy Considerations for XR  
 excerpt: "Oculus have updated their privacy policy to align more with their parent company Facebook.
 
-I do say Meta data isn't meta if you are recording everything, the future of this space has many privacy implications."
-modified: 2013-05-31
+I do say Meta data isn't meta if you are recording everything, the future of this space has many privacy implications. 
+
+Update, this blog was written before the company changed to be Meta. "
+modified: 2020-12-11
 categories: [Privacy]
 tags: [privacy, oculus, facebook, vr]
 galleries:
@@ -21,6 +23,14 @@ galleries:
    -
      - { url: '/img/asda-self.PNG', alt: 'asda'}
 ---
+
+# Update! 💥
+
+This blog was written before Oculus changed to Meta on Jan 27th 2021. Therefore I believe this to be quite an insightful post into understanding what changed more than just the name. What was the run up to the change of brand? How did this change from Oculus privacy to Facebook privacy? 
+
+**When I said "Metadata isn't meta if you are recording everything" ... you can imagine my reaction to this acquisition.** 
+{: .notice}
+
 
 # Opening Statement
 Before reading I would like to note that there are some statements here that are speculative regarding the future and these will be marked as such. Otherwise all information was gathered from official websites and supporting documentation. Assumptions include how Oculus may be tracking users interiors in the future to enhance their AR experience plans based of their 2020 Facebook Connect event. 

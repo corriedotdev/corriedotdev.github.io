@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Future of Programming & The Humane Representation of Thought 
+title: 👨‍💻 The Future of Programming & The Humane Representation of Thought 
 excerpt: "This is more of a real time write up of two videos I have found from quite a special computer scientist Bret Victor. He is clearly passionate about interface design and has some incredibly interesting write ups looking into the past of interaction and the initial words mentioned in early literature that is used everyday now."
 categories: [code]
 comments: true
