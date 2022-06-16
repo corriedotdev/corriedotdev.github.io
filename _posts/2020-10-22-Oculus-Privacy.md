@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 🕵️ Privacy Considerations for XR  
+title: Privacy Considerations for XR  
 excerpt: "Oculus have updated their privacy policy to align more with their parent company Facebook.
 
 I do say Meta data isn't meta if you are recording everything, the future of this space has many privacy implications. 
 
 Update, this blog was written before the company changed to be Meta. "
 modified: 2020-12-11
-categories: [Privacy]
+categories: [Privacy🕵️]
 tags: [privacy, oculus, facebook, vr]
 galleries:
  1:

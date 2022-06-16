@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 📈 Investing is fun.
+title: Investing in Markets  
 excerpt: "Becoming financially literate to break out the loop, balance your portfolio and understand how much knowledge there is to gain from setting up a company. Basic discussion on my views on crypto and stocks included. Not investment advice, but points to support becoming financially literate."
-categories: [investment]
+categories: [investment 📈]
 comments: true
 
 ---

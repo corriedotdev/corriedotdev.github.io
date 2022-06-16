@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 🥽 Developing Pixel Arcade VR 
+title: Developing Pixel Arcade VR
 excerpt: "At its launch there were few VR games out there. Anything developed was quickly enjoyed by the smaller but passionate VR playerbase. So releasing a VR title in 2016 was unchartered territory. Pixel Arcade has been for sale since on Steam, Vive Port and has a partnership with Smilegate Stove; Tencents approach at VR arcades for the Korean markets. Enjoy the technical breakdown"
-categories: [VR]
+categories: [VR🥽]
 comments: true
 # image:
 #   feature: pixelarcade/icon.png
