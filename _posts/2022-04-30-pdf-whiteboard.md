@@ -11,7 +11,7 @@ Version 4 can be downloaded below. To use just start annotating on the whiteboar
 
 This is a personal project, I will release open source when I can polish it more. I dont have time. Feel free to spread the word if you find it useful to motivate me to finish it at somepoint.
 
-<div markdown="0"><a href="{{ site.url }}/releases/PDF_Whiteboard_v4" class="btn btn-success">Download PDF Whiteboard v4 Here</a></div>
+<div markdown="0"><a href="{{ site.url }}/releases/PDF_Whiteboard_v4" class="btn btn-success" download>Download PDF Whiteboard v4 Here</a></div>
 
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGRqaxVygio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

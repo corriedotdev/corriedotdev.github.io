@@ -32,7 +32,7 @@ using (FileStream fs = new FileStream(_path, FileMode.Append, FileAccess.Write))
 - Ramification, add a simple graph to the side to share daily streaks from entering data.
 - Create release on github.. but the code is so dumb ill be roasted but its not the complexity its the practical application that this software has impacted my life. It's really reflective to look back on achievements and activities on specific dates without a third party seeing the data.
 
-<div markdown="0"><a href="#" class="btn btn-danger">Download Coming Soon</a></div>
+<div markdown="0"><a href="#" class="btn btn-danger">Download Coming Soon</download a></div>
 
 # Spotify Grabber
 Next is another simple application that is useful to keeping that inner demon I have about losing personal data. My personally curated playlists. We all have them, but we don't necessarily own them. I rely exclusively on Spotify for my playlists and when I have a song I like, it gets added to a playlist which suits the vibe.
@@ -101,7 +101,7 @@ Then all we do is parse the web response from json into our file and thats all t
 {% endhighlight %}
 
 
-<div markdown="0"><a href="{{ site.url }}/releases/Spotify_Grabber_v1.zip" class="btn btn-success">Download Spotify Grabber Free</a></div>
+<div markdown="0"><a href="{{ site.url }}/releases/Spotify_Grabber_v1.zip" class="btn btn-success" download>Download Spotify Grabber Free</a></div>
 
 
 ## Further Reading
