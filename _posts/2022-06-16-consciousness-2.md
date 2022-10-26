@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consciousness Part 2
+title: Assembly Theory 
 excerpt: "The mind-body problem was what I have always coined as the embodiment problem in AI. When you try advance to GPT how are we able to understand its development to advanced AI if we have yet to grasp the very fundamentals in quantum mechanics and physics. I am going to elaborate from my first post more, with better hypothetical questions to debate."
 categories: [philosophy💭]
 comments: true
@@ -13,7 +13,7 @@ I have listed relevant literature at the bottom which I could'nt stress enough t
 
 
 # Duplication
-A point made in the first post was that with a rather stupidly (and reading it back I don't like it) metaphor for how one can not embody consciousness in a SQL table. I have read more and listened to many great scientists which has slowly started to solidify my fundamental views and understanding on how this could work and why my point on "moving" consciousness to support in biomechanical limbs is probably as close as we are going to get. But that in itself is controversial due to that being just another skill to learn. What is it to learn a new skill? Realistically its developing neural pathways in such a way that allow you to recall, recite a motion. An algorithm perhaps? If every set of actions to complete a task can be put into an algorithm, could you write an algorithms for every motion possible, embody it into an artificial self and call that conscious?
+A point made in the first post was that with a rather silly metaphor for how one can not *embody* consciousness in a SQL table. I have read more and listened to many great scientists which has slowly started to solidify my fundamental views and understanding on how this could work and why my point on "moving" consciousness to support in biomechanical limbs is probably as close as we are going to get. But that in itself is controversial due to that being just another skill to learn. What is it to learn a new skill? Realistically its developing neural pathways in such a way that allow you to recall, recite a motion. An algorithm perhaps? If every set of actions to complete a task can be put into an algorithm, could you write an algorithms for every motion possible, embody it into an artificial self and call that conscious?
 
 The separation between software and hardware when discussing AI is usually in relation to the GPU power required to run a model and return a desirable result quickly. If we had a machine with infinite back buffers, unlimited resistors all with significantly improved GPU-accelerated libraries, lets also take the CUDA framework but beef it up for the sake of inference engine issues, so all the low level interface nuances lets put a pin in them. How well could our AI perform on this infinite hardware machine? What would it affect? Arguably fuck all at this point in time given the way we run models. Given that Nvidia now support bypassing RAM and storing model data for fast access on the nvme drives we are starting to see a readjustment on architecture for AI driven computation. Not to mention quantum computing approaching. 
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: All in One PDF Whiteboard Note App
+title: Download - All in One PDF Whiteboard Note App
 excerpt: "Developed before I started my PhD to support in understanding research topics from no knowledge to eventually having something comprehensible on paper. Haven't updated it since 2021 but used it every week. The format projects are saved to will be supported in future releases. I will discuss this here. "
-categories: [code 👨‍💻]
+categories: [Download🔻]
 comments: true
 ---
 

@@ -7,7 +7,7 @@ I do say Meta data isn't meta if you are recording everything, the future of thi
 
 Update, this blog was written before the company changed to be Meta. "
 modified: 2020-12-11
-categories: [Privacy🕵️]
+categories: [VR🥽]
 tags: [privacy, oculus, facebook, vr]
 galleries:
  1:

@@ -38,7 +38,7 @@ owner:
   job: "A window into my head space."
   bio: "Welcome to my page on the internet. XR Researcher. Interested in Unity, C#, UX, Design & literally anything." #"This is my page on the internet." 
   email:
-  disqus-shortname: corrie-dev
+  disqus-shortname: #corrie-dev
   twitter: corriedotdev
   facebook: #username
   google:

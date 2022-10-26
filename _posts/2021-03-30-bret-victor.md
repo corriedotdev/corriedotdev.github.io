@@ -2,7 +2,7 @@
 layout: post
 title: The Future of Programming & The Humane Representation of Thought 
 excerpt: "This is more of a real time write up of two videos I have found from quite a special computer scientist Bret Victor. He is clearly passionate about interface design and has some incredibly interesting write ups looking into the past of interaction and the initial words mentioned in early literature that is used everyday now."
-categories: [code👨‍💻]
+categories: [philosophy💭]
 comments: true
 galleries:
  1:
@@ -95,12 +95,6 @@ Bret notes that we will need parallel programming hardware. I am uneducated on q
 {% include gallery.html  gallery=4 %}
 
 
-# Humane Representation of Thought
-
- 
-## Closing Thoughts
-
-
 ## Further Reading
 Check out the following links for inspiration and further reading about this topic
 * [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
@@ -109,7 +103,6 @@ Check out the following links for inspiration and further reading about this top
 * [Scale-free Networks are Rare](https://www.nature.com/articles/s41467-019-08746-5)
 * [Computational Rationality](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.2764&rep=rep1&type=pdf)
 * [Economic Reasoning and Artificial Intelligence](https://science.sciencemag.org/content/349/6245/267)
-* If these look familiar then reach out.
 
 <a href="#" id="emailclick" onclick="replace_email()">My Email</a>
 
