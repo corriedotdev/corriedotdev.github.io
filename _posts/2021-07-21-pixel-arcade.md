@@ -4,8 +4,8 @@ title: Developing Pixel Arcade VR
 excerpt: "At its launch there were few VR games out there. Anything developed was quickly enjoyed by the smaller but passionate VR playerbase. So releasing a VR title in 2016 was unchartered territory. Pixel Arcade has been for sale since on Steam, Vive Port and has a partnership with Smilegate Stove; Tencents approach at VR arcades for the Korean markets. Enjoy the technical breakdown"
 categories: [VR🥽,games👾]
 comments: true
-# image:
-#   feature: pixelarcade/icon.png
+ #image:
+  # feature: pixelarcade/icon.png
 galleries:
  1:
    -
@@ -61,7 +61,7 @@ Valve uploading mechanism was easy but did require command line terminals and no
 
 > Here is a screenshot of the first upload to steam.
 
-![Vat]({{ site.url }}/img/pixelarcade/firstbuild.png)
+![pa]({{ site.url }}/img/pixelarcade/firstbuild.PNG)
 {: .pull-center}
 
 

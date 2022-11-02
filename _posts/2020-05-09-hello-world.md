@@ -52,7 +52,7 @@ $ bundle install
 
 After any changes re run this is the main one
 {% highlight ruby %} 
-$ bundle exec jekyll serve 
+$ bundle exec jekyll serve
 {% endhighlight %}
 
 ## Further Reading
