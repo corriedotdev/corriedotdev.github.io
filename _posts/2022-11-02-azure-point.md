@@ -11,10 +11,11 @@ comments: true
 Please download from the link below and extract to get running. Pre-req is an Azure Kinect DK and to run it as an admin. The folder is zipped with .7z
 
 
+<!-- 
+![JWT Screen]({{ site.url }}/img/kinect.png)
+{: .pull-center} -->
 
-![JWT Screen]({{ site.url }}/img/kinect.PNG)
-{: .pull-center}
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Real time volumetric lighting with azure kinect <a href="https://twitter.com/hashtag/unity?src=hash&amp;ref_src=twsrc%5Etfw">#unity</a> <a href="https://t.co/ZrWXn7PkVx">pic.twitter.com/ZrWXn7PkVx</a></p>&mdash; Corrie (@corriedotdev) <a href="https://twitter.com/corriedotdev/status/1501587367823650816?ref_src=twsrc%5Etfw">March 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <div markdown="0"><a href="{{ site.url }}/releases/Kinect_Realtime_Voxel.7z" class="btn btn-success" download >Download</a></div>
 
