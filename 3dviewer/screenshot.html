@@ -32,27 +32,18 @@
   </head>
   <body>
     <div id="card">
-      <model-viewer
-        id="viewer"
-        style="width: 400px; height: 400px;"
-        src="https://cdn.glitch.com/05742b05-61cf-4d2d-9c10-8725e0771dfa%2FAstronaut.glb?v=1590071463538"
-        ios-src="https://cdn.glitch.com/05742b05-61cf-4d2d-9c10-8725e0771dfa%2FAstronaut.usdz?v=1590071455140"
-        alt="A 3D model of an astronaut"
-        ar
-        camera-controls
-        interaction-prompt="none">
-      </model-viewer>
-      <section class="attribution">
-        <span>
-          <button id="downloadPosterToBlob" onclick="downloadPosterToBlob()">
-            Download Poster: toBlob()
-          </button>
-
-          <button id="downloadPosterToDataURL" onclick="downloadPosterToDataURL()">
-            Download Poster: toDataURL()
-          </button>
-        </span>
-      </section>
+        <model-viewer src="assets/models/Box.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
+            <div class="progress-bar hide" slot="progress-bar">
+                <div class="update-bar"></div>
+            </div>
+            <button slot="ar-button" id="ar-button">
+                View in your space
+            </button>
+            <div id="ar-prompt">
+                <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+            </div>
+        </model-viewer>
+        
     </div>
 
 
