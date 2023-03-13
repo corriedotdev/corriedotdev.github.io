@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Model-Viewer Poster</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- 🚨 REQUIRED: Web Components polyfill to support Edge and Firefox < 63 -->
+    <script src="https://unpkg.com/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+
+    <!-- 💁 OPTIONAL: Intersection Observer polyfill for better performance in Safari and IE11 -->
+    <script src="https://unpkg.com/intersection-observer/intersection-observer.js"></script>
+
+    <!-- 💁 OPTIONAL: Resize Observer polyfill improves resize behavior in non-Chrome browsers -->
+    <script src="https://unpkg.com/resize-observer-polyfill/dist/ResizeObserver.js"></script>
+
+    <!-- 💁 OPTIONAL: Fullscreen polyfill is needed to fully support AR features -->
+    <script src="https://unpkg.com/fullscreen-polyfill/dist/fullscreen.polyfill.js"></script>
+
+    <!-- 💁 OPTIONAL: Include prismatic.js for Magic Leap support -->
+    <script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>
+
+    <!-- 💁 OPTIONAL: The :focus-visible polyfill removes the focus ring for some input types -->
+    <script
+      src="https://unpkg.com/focus-visible/dist/focus-visible.js"
+      defer
+    ></script>
+  </head>
+  <body>
+    <div id="card">
+      <model-viewer
+        id="viewer"
+        style="width: 400px; height: 400px;"
+        src="assets/models/Box.gltf"
+        ios-src="https://cdn.glitch.com/05742b05-61cf-4d2d-9c10-8725e0771dfa%2FAstronaut.usdz?v=1590071455140"
+        alt="A 3D model of an astronaut"
+        ar
+        camera-controls
+        interaction-prompt="none"
+      >
+      </model-viewer>
+      <section class="attribution">
+        <span>
+          <button id="downloadPosterToBlob" onclick="downloadPosterToBlob()">
+            Download Poster: toBlob()
+          </button>
+
+          <button id="downloadPosterToDataURL" onclick="downloadPosterToDataURL()">
+            Download Poster: toDataURL()
+          </button>
+        </span>
+      </section>
+    </div>
+
+
+    <!-- 💁 Include both scripts below to support all browsers! -->
+    <!-- Loads <model-viewer> for modern browsers: -->
+    <script
+      type="module"
+      src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"
+    ></script>
+
+    <!-- Download Model-Viewer generated poster image -->
+    <script>
+      const modelViewer = document.getElementById("viewer");
+
+      async function downloadPosterToBlob() {
+        const blob = await modelViewer.toBlob({ idealAspect: false });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = "modelViewer_toBlob.png";
+        a.click();
+        URL.revokeObjectURL(url);
+      }
+
+      function downloadPosterToDataURL() {
+        const url = modelViewer.toDataURL();
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = "modelViewer_toDataURL.png";
+        a.click();
+        URL.revokeObjectURL(url);
+      }
+    </script>
+    
+  </body>
+</html>
