@@ -28,20 +28,16 @@
     <div class="container">
             <div class="row">
                 <div class="col-sm-4">           
-                    <model-viewer class="model" src="assets/models/Box.gltf" 
+                    <model-viewer 
+                        id="viewer"
+                        class="model" 
+                        src="assets/models/Box.glb" 
                         poster="poster.webp" 
                         shadow-intensity="0" 
                         ar
                         camera-controls
                         interaction-prompt="none"
-                        auto-rotate 
-                        disable-pan
-                        camera-target="0m 0m 0m" 
-                        environment-image="legacy" 
-                        touch-action="pan-y" 
-                        shadow-softness="0"  
-                        min-camera-orbit="auto auto auto" 
-                        min-field-of-view="30deg"> 
+                        > 
                     </model-viewer>
                     <section class="attribution">
                         <span>
@@ -52,6 +48,7 @@
                           <button id="downloadPosterToDataURL" onclick="downloadPosterToDataURL()">
                             Download Poster: toDataURL()
                           </button>
+
                         </span>
                       </section>
 
