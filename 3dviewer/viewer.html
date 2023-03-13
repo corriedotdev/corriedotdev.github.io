@@ -29,7 +29,7 @@
                 <div class="col-sm-4">           
                     <model-viewer class="model" src="assets/models/Box.gltf" 
                         poster="poster.webp" shadow-intensity="0" auto-rotate disable-pan ar camera-controls 
-                        camera-target="0m 0m 0m" environment-image="legacy" touch-action="pan-y" shadow-softness="0"  
+                        camera-target="0m 0m 0m" ar-modes="scene-viewer quick-look webxr" environment-image="legacy" touch-action="pan-y" shadow-softness="0"  
                         min-camera-orbit="auto auto auto" min-field-of-view="30deg"> 
                     </model-viewer>
                 </div>
@@ -134,3 +134,14 @@
 
 </body>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+$("#capture").click(function () {
+                var bottleCanvas = document.getElementById('viewer');
+                var dataURL = bottleCanvas.toDataURL("image/png");
+                var anchor = document.createElement('a');
+                anchor.href = dataURL;
+                anchor.download = 'screenshot.png';
+                anchor.innerHTML = '<img width="100" height="100" src=' + dataURL + '>download';
+                document.getElementById('images').appendChild(anchor);
+            });
+</script>
