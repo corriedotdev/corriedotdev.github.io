@@ -2,26 +2,29 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Model-Viewer Poster</title>
+
+    <title>3D Library Viewer </title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-    <!-- 🚨 REQUIRED: Web Components polyfill to support Edge and Firefox < 63 -->
+    <!-- Web Components polyfill to support Edge and Firefox < 63 -->
     <script src="https://unpkg.com/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
 
-    <!-- 💁 OPTIONAL: Intersection Observer polyfill for better performance in Safari and IE11 -->
+    <!-- Intersection Observer polyfill for better performance in Safari and IE11 -->
     <script src="https://unpkg.com/intersection-observer/intersection-observer.js"></script>
 
-    <!-- 💁 OPTIONAL: Resize Observer polyfill improves resize behavior in non-Chrome browsers -->
+    <!-- Resize Observer polyfill improves resize behavior in non-Chrome browsers -->
     <script src="https://unpkg.com/resize-observer-polyfill/dist/ResizeObserver.js"></script>
 
-    <!-- 💁 OPTIONAL: Fullscreen polyfill is needed to fully support AR features -->
+    <!-- Fullscreen polyfill is needed to fully support AR features -->
     <script src="https://unpkg.com/fullscreen-polyfill/dist/fullscreen.polyfill.js"></script>
 
-    <!-- 💁 OPTIONAL: Include prismatic.js for Magic Leap support -->
+    <!-- Include prismatic.js for Magic Leap support -->
     <script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>
 
     <!-- 💁 OPTIONAL: The :focus-visible polyfill removes the focus ring for some input types -->
@@ -31,17 +34,42 @@
     ></script>
   </head>
   <body>
+
+    <div class="container">
+      <div class="row">
+          <div class="col-sm-4">           
+                  <model-viewer class="model" src="assets/models/ETH.gltf" 
+                  ar ar-modes="scene-viewer webxr quick-look" camera-controls poster="poster.webp" shadow-intensity="1"> 
+                      <div class="progress-bar hide" slot="progress-bar">
+                          <div class="update-bar"></div>
+                      </div>
+                  </model-viewer>
+          </div>
+
+          <div class="col-sm-6"> 
+              <H1>ETH Token, 1991</H1>
+              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+              when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, 
+              but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum 
+              passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+              <p>Lorem Ipsum is simply dummy text</p>
+          </div>
+      </div>
+  </div>
+
+
+
     <div id="card">
         <model-viewer src="assets/models/Box.glb" ar ar-modes="scene-viewer webxr quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
             <div class="progress-bar hide" slot="progress-bar">
                 <div class="update-bar"></div>
             </div>
-            <button slot="ar-button" id="ar-button">
+            <!-- <button slot="ar-button" id="ar-button">
                 View in your space
-            </button>
-            <!-- <div id="ar-prompt">
+            </button> -->
+            <div id="ar-prompt">
                 <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
-            </div> -->
+            </div>
         </model-viewer>
         
     </div>
