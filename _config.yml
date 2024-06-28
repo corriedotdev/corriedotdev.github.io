@@ -1,0 +1,73 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Corrie Dev
+email:
+description: Corrie.dev blog.
+url: "https://corrie.dev" # the base hostname & protocol for your site
+keywords: ["corrie blog", "corrie dev blog", "corrie green", "developer", "vr interface design", "virtual reality interfaces", "unity", "c#", "tutorials", "vr", "virtual reality", "xr", "virtual reality developer", "corrie phd"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/London
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Corrie Dev Blog
+  avatar: logo-loop.mp4 #logo.PNG
+  job: "VR Research and Development"
+  bio: "PhD, Game Dev, Unity, C#, UI & UX." #"This is my page on the internet." Interested in Design, Unity, C#, UX & literally anything.
+  email:
+  disqus-shortname: #corrie-dev
+  twitter: #corriedotdev
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  behance: #corrie_green_gfx
+  artstation: corriedotdev
+  github: corriedotdev
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #corriedotdev
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username4
+  steam: #username
+  dribbble: #username
+  youtube: Corriedotdev
+  soundcloud: 
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username

@@ -1,0 +1,60 @@
+{% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
+
+<div class="cover-card table-cell table-middle">
+  {% if author.avatar %}
+  <a href="{{ site.url }}/">
+    <!-- <video src="{{ site.url }}/img/{{ author.avatar }}" poster="{{ site.url }}/img/logo.PNG" width="150px" height="150px" controls preload></video> -->
+    
+    <video id="videoElement" width="150" height="150" playsinline autoplay muted loop>
+      <source src="{{ site.url }}/img/{{ author.avatar }}" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+    
+    <!-- <img src="{{ site.url }}/img/logo.PNG" alt="" class="avatar"> -->
+  </a>
+  {% endif %}
+  <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
+  <span class="author_job">{{ author.job }}</span>
+  <span class="author_bio mbm">{{ author.bio }}</span>
+  <nav class="nav">
+    <ul class="nav-list">
+      <li class="nav-item">
+        <a href="{{ site.url }}/">home</a>
+      </li>
+
+      <!-- Removed tags page and want to display in certain order-->
+      <!--{% for page in site.pages %} {% if page.title %}
+      <li class="nav-item">
+        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
+      </li>
+      {% endif %} {% endfor %}-->
+    
+      <li class="nav-item">
+        <a href="{{ site.url }}/archive">archive</a>
+      </li>
+          
+      <li class="nav-item">
+        <a href="{{ site.url }}/categories">categories</a>
+      </li>
+
+          
+      <li class="nav-item">
+        <a href="{{ site.url }}/gallery">gallery</a>
+      </li>
+
+    </ul>
+  </nav>
+  {% include social-links.html %}
+</div>
+<script>
+  window.addEventListener('load', function(){
+    var newVideo = document.getElementById('videoElement');
+    newVideo.addEventListener('ended', function() {
+        this.currentTime = 0;
+        this.play();
+    }, false);
+
+    newVideo.play();
+
+});
+</script>

@@ -1,0 +1,19 @@
+{% comment %}
+https://stackoverflow.com/a/29039740/3133059
+{% endcomment %}
+
+{% assign rows = page.galleries[include.gallery] %}
+
+{% for row in rows %}
+<div id="row">
+
+    {% for img in row %}
+        <p> 
+            <a href="{{ site.url }}{{ img.url }}" target="_blank">
+                <img src="{{ site.url }}{{ img.url }}" alt="{{ img.alt }}" width="500"/>
+                
+            </a>
+        </p> 
+    {% endfor %}
+</div>
+{% endfor %}
