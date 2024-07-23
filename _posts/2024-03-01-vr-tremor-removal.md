@@ -29,7 +29,7 @@ galleries:
 > I want to see this filter integrated into every VR HMD Accessibility Menu with a Toggle. It's just a single script.
 
 Paper pending Publication at my preferred journal which is Springer Nature Virtual Reality
-**Pre-Print** Paper available [here]()          
+**Pre-Print** Paper available [here](https://arxiv.org/abs/2405.07335)          
 
 **Git Study Repo** Paper available [here](https://github.com/corriedotdev/vr-tremor-reduction)      
 
