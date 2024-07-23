@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "We can Remove Tremors in VR using the 1-Euro-Filter"
-excerpt: "I want to see this filter integrated into every VR HMD Accessibility Menu with a Toggle. It’s just a single script.. One core component discovered during my PhD for the best part of 3 years. Review process is killing me so have decided to share the science now and wait on journal publication. We CAN remove tremors in VR. I want every VR system to have this as an option in Meta / Valve / Pico Accessibility Settings."
+excerpt: "I want to see this filter integrated into every VR HMD Accessibility Menu with a Toggle. It’s just a single script.. One core component discovered during my PhD for the best part of 3 years. Review process is killing me so have decided to share the science now and wait on journal publication. We CAN remove tremors in VR. I want every VR system to have this as an option."
 categories: [VR🥽,Publication📕, Download🔻]
 comments: true
 image:
