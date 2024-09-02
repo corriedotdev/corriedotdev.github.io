@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "PhD to VR Indie Developer, 3 Reasons Why"
-excerpt: "Written for gamedeveloper.com, after an evaluation into the state of the VR, it appears VR early adoption phase is coming to an end. From the technical potential and immpressive array of worlds at this years VRKet, quality of VR development frameworks and new research into VR interfaces helping guide player expectations, the recent annoucement of future HMDs from Meta and Google comes as no suprise.."
+title: "Pixel Arcade VR - Demo Oct 14th Steam Next Fest"
+excerpt: "Written for gamedeveloper.com. From the technical potential and immpressive array of worlds at this years VRKet, quality of VR development frameworks and new research into VR interfaces helping guide player expectations, the recent annoucement of future HMDs from Meta and Google comes as no suprise.."
 categories: [VR🥽]
 comments: true
 image:
@@ -23,6 +23,8 @@ galleries:
      - { url: '/img/modular/pa/portal.gif', alt: 'vr filter'}
      - { url: '/img/modular/pa/portal2.gif', alt: 'vr filter'}
 ---
+
+<iframe src="https://store.steampowered.com/widget/2603560/" frameborder="0" width="646" height="190"></iframe>
 
 ## The Problem with VR Interaction
 For gamedeveloper.com discussing how PhD UI/UX research lead to the development of an indie VR game based on the findings. 
